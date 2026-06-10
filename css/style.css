@@ -36,9 +36,9 @@ body {
 
 .wrapper {
   width: 90%;
-  background: #fff;
+  background: #000;
   border-radius: 7px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.1);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
@@ -117,7 +117,7 @@ header i {
   text-align: center;
   padding: 0 15px;
   border: 1px solid #ccc;
-  background-color: #fff;
+  background-color: #000;
 }
 
 .input-part input:is(:focus, :valid) {
@@ -277,7 +277,7 @@ header i {
   justify-content: center;
   margin: 12px;
   right: 0;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.2);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(1.5px);
   -webkit-backdrop-filter: blur(1.5px);
@@ -305,7 +305,7 @@ header i {
   position: absolute;
   top: 12px;
   right: 12px;
-  background: rgba(255, 255, 255, 0.25);
+  background: rgba(0, 0, 0, 0.25);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
@@ -400,7 +400,7 @@ header i {
   align-items: center;
   justify-content: center;
   padding: 20px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   margin-bottom: 10px;
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
